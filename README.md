@@ -59,19 +59,18 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Open Source](#open-source)
   - [Standard Template Library](#standard-template-library)
 
-
 ---
 
 ## Android
 
-- [Vogella Tutorials](https://www.vogella.com/tutorials/android.html) 
+- [Vogella Tutorials](https://www.vogella.com/tutorials/android.html)
 - [Build your first app](https://developer.android.com/training/basics/firstapp)
 - [Official Documentation](https://developer.android.com/docs)
 - [Android™ Notes for Professionals book](https://books.goalkicker.com/AndroidBook/)
 - [Android Developer Roadmap](https://roadmap.sh/android)
 - [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 - [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks)
-- [Fragmented : Podcast for Android](https://fragmentedpodcast.com/) 
+- [Fragmented : Podcast for Android](https://fragmentedpodcast.com/)
 
 ---
 
@@ -171,6 +170,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ---
 
 ## Ethical Hacking
+
 - [Social Engineering](https://www.udemy.com/course-dashboard-redirect/?course_id=1155820)
 - [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 - [Privacy Security and Anonymity](https://www.udemy.com/course-dashboard-redirect/?course_id=2281984)
@@ -289,6 +289,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Javascript
 
+- [Beginner JavaScript Notes + Reference](https://wesbos.com/javascript)
 - [Chrome Extension Tutorial — Replace Images in Any Website with Pikachu](https://levelup.gitconnected.com/chrome-extension-tutorial-replace-images-in-any-website-with-pikachu-de2a6e3548bb)
 - [React Hooks Tutorial — Create a Number Trivia Generator Website](https://medium.com/@shahedn/react-hooks-tutorial-create-a-number-trivia-generator-website-32b6b3b52c3e)
 - [Callback Function in JavaScript](https://medium.com/@a.athuljoy/callback-function-in-javascript-99b5262f6750)
